@@ -1,0 +1,28 @@
+.control{
+    height:35px;
+    width: 35px;
+}
+
+.fon{
+    font-weight: 900;
+}
+
+.aa{
+    font-weight: 500;
+}
+.imag{
+    font-weight: 1000;
+}
+.png{
+    height: 400px;
+    width: 290px;
+}
+.ff{
+    font-size:20px;
+}
+
+.clgn
+{
+    background-color: rgb(36, 36, 36);
+    height:550px;
+}
